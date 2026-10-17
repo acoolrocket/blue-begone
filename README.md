@@ -7,7 +7,7 @@ Although eventually resorted to making from scratch using the extension as an in
 
 Currently tried logged in using the default settings that allows business verified and old accounts with blue checkmarks, both of which are toggleable alongside other settings.
 
-By default it will only hide posts via HTML, not actually block the blue checkmark users encountered to avoid heavy API callouts.
+By default it will only hide posts via HTML, not actually block the blue checkmark users encountered to avoid heavy API usage.
 
 If you want a script that actually blocks them, there's this one by adalinesimonian: https://gist.github.com/adalinesimonian/b52a753c9fd6c176598745df01ba12dc
 
@@ -23,4 +23,8 @@ There's bound to be issues as I tried briefly on the surface, although it did su
 
 Supports Manifest V2 and V3 so even Google Chrome can use it.
 
-Do note to take this extension as a risk as its uncertain how many API calls it does in normal usage that might at worst be bannable.
+Currently after trying for a couple days of regular usage, had no human verification checks or the likes telling me that I'm hitting an API limit.
+
+Still take the extension as a potential risk.
+
+https://github.com/user-attachments/assets/9964459a-2c44-4971-a46e-14b702fcf227
